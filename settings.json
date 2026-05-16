@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "HEROSMP666.aternos.me",
+    "ip": "HEROSMP666.aternos.me:12284",
     "port": 12284,
     "version": "1.21.1"
   },
